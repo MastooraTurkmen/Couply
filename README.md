@@ -1,6 +1,7 @@
 # Couply
 
 
+-------
 
 ## Languages and Tools are used 🗣️🔧
 
@@ -16,3 +17,6 @@
     + [Figma](https://github.com/topics/figma)
     + [VSCode](https://github.com/topics/vscode)
     + [Netlify](https://github.com/topics/netlify)
+
+
+------
