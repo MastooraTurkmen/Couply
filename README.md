@@ -12,3 +12,4 @@
 
 
 2. **Tools** 🔧
+    + [Chrome](https://github.com/topics/chrome)
