@@ -1,5 +1,10 @@
 :root {
-  ---color: black;
+  ---color-light: #6C7667;
+  --background-color: #E8F5E2;
+  --color-span: #779469;
+  --color-span-save: #608A4D;
+  --color-white: #fff;
+  --color-black: #000;
 }
 
 *,
@@ -12,12 +17,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: Nunito;
+  background-color: var(--background-color);
 }
 
 .hide-mobile {
   display: none;
 }
 
-.hide-desktop {
-  display: none;
+.wrapper {
+  padding: 1.5em 1.125em;
 }/*# sourceMappingURL=main.css.map */
