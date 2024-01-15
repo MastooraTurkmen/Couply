@@ -1,7 +1,3 @@
-:root {
-  ---color: black;
-}
-
 *,
 *::before,
 *::after {
@@ -16,8 +12,4 @@ body {
 
 .hide-mobile {
   display: none;
-}
-
-.hide-desktop {
-  display: none;
-}/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=global.css.map */
