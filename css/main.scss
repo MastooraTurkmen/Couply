@@ -38,6 +38,11 @@ header {
                     color: var(--color-white);
 
                 }
+
+                a:hover {
+                    color: var(--color-span-save);
+                    font-weight: bold;
+                }
             }
         }
     }
