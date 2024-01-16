@@ -136,7 +136,7 @@
         padding: .5em 1em;
         background-color: var(--background-color-btn);
         margin: 1em;
-        
-        box-shadow: 4px 4px 0px 0px #000;
+        border: 2px solid var(--color-balck);
+        box-shadow: 4px 4px 0px 0px var(--color-balck);
     }
 }
