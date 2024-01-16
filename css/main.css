@@ -152,4 +152,6 @@ body {
 
 .black-section {
   background-color: var(--color-black);
+  padding: 3em;
+  height: 320px;
 }/*# sourceMappingURL=main.css.map */
