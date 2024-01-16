@@ -50,17 +50,16 @@ body {
   height: 100vh;
   width: 300px;
   background-color: var(--color-span);
-  display: flex;
-  flex-direction: column;
   text-align: center;
-  justify-content: center;
   margin: 0;
   padding: 3em;
 }
 .header nav ul .close-icon {
   width: 30px;
   height: 30px;
-  text-align: right;
+  display: flex;
+  margin-left: 0;
+  margin-bottom: 4em;
 }
 .header nav ul li {
   margin-bottom: 2em;
