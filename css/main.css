@@ -126,7 +126,10 @@ body {
   padding: 0;
 }
 .feature-section .col-1 .first-col1 span {
-  padding: 0.5em;
+  padding: 0.1em 0.5em;
   background-color: black;
   color: white;
+  border-radius: 50%;
+  font-size: 1em;
+  font-weight: 700;
 }/*# sourceMappingURL=main.css.map */
