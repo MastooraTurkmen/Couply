@@ -25,7 +25,7 @@ body {
 }
 
 .wrapper {
-  padding: 1.5em 1.125em;
+  margin: 1.5em 1.125em;
 }
 
 .header {
@@ -33,6 +33,8 @@ body {
   justify-content: space-between;
   text-align: center;
   align-items: center;
+  border-bottom: 2px solid black;
+  padding-bottom: 1em;
 }
 .header nav {
   display: flex;
