@@ -74,6 +74,15 @@ body {
 }
 
 .first-section {
-  padding-top: 1em;
+  padding-top: 1.5em;
   text-align: center;
+}
+.first-section h1 {
+  margin: 0 auto;
+  font-size: 2em;
+  width: 280px;
+  margin-bottom: 1em;
+}
+.first-section .users-section {
+  font-weight: 300;
 }/*# sourceMappingURL=main.css.map */

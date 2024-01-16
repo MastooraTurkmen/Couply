@@ -58,6 +58,19 @@
 }
 
 .first-section {
-    padding-top: 1em;
+    padding-top: 1.5em;
     text-align: center;
+    
+    h1 {
+        margin: 0 auto;
+        font-size: 2em;
+        width: 280px;
+        margin-bottom: 1em;
+    }
+
+    .users-section {
+        font-weight: 300;
+
+        
+    }
 }
