@@ -5,6 +5,7 @@
   --color-span-save: #608A4D;
   --color-white: #fff;
   --color-black: #000;
+  --color-btn: #9BC588;
 }
 
 *,
@@ -139,5 +140,6 @@ body {
   display: flex;
   justify-content: center;
   color: var(--color-balck);
-  padding: 0.3em 1em;
+  padding: 0.5em 1em;
+  background-color: var(--color-btn);
 }/*# sourceMappingURL=main.css.map */
