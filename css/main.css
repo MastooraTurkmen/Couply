@@ -43,7 +43,6 @@ header nav ul {
   top: 0;
   right: 0;
   height: 100vh;
-  background-color: white;
   margin: 0;
   padding: 3em;
   width: 300px;
@@ -54,9 +53,13 @@ header nav ul {
   text-align: center;
   justify-content: center;
 }
+header nav ul .close-icon {
+  width: 50px;
+  height: 50px;
+}
 header nav ul li {
   margin-bottom: 2em;
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 header nav ul li a {
   text-decoration: none;
