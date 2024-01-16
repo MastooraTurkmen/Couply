@@ -57,6 +57,9 @@ header nav ul li {
   margin-bottom: 2em;
   font-size: 1.5em;
 }
+header nav ul li a {
+  text-decoration: none;
+}
 header img {
   padding: 0;
 }/*# sourceMappingURL=main.css.map */
