@@ -110,6 +110,17 @@
             align-items: center;
             gap: 1em;
             font-size: 1.2em;
+
+            p {
+                width: 301px;
+                padding: 0;
+            }
+
+            span {
+                padding: .5em;
+                background-color: black;
+                color: white;
+            }
         }
     }
 }

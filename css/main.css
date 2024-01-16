@@ -120,4 +120,13 @@ body {
   align-items: center;
   gap: 1em;
   font-size: 1.2em;
+}
+.feature-section .col-1 .first-col1 p {
+  width: 301px;
+  padding: 0;
+}
+.feature-section .col-1 .first-col1 span {
+  padding: 0.5em;
+  background-color: black;
+  color: white;
 }/*# sourceMappingURL=main.css.map */
