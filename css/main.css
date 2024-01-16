@@ -154,4 +154,10 @@ body {
   background-color: var(--color-black);
   padding: 3em;
   height: 320px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.black-section img {
+  width: 100px;
+  height: 50px;
 }/*# sourceMappingURL=main.css.map */
