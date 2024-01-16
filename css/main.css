@@ -60,6 +60,7 @@ body {
   display: flex;
   margin-left: 0;
   margin-bottom: 4em;
+  cursor: pointer;
 }
 .header nav ul li {
   margin-bottom: 2em;
