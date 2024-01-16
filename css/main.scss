@@ -70,21 +70,25 @@
 
     .users-section {
         font-weight: 300;
-        width: 207px;
+        width: 250px;
         margin: 0 auto;
 
         .users-images {
-            height: 54px;
             margin-bottom: 2em;
-
-            .img-first {
-                margin-right: -1em;
-            }
+            margin: 0 auto;
 
             img {
                 padding: 0;
-                margin-left: -1em;
+                margin-left: -1.3em;
                 display: inline;
+                width: 60px;
+                height: 60px;
+            }
+
+            .img-first {
+                margin-left: .3em;
+                height: 55px;
+                width: 55px;
             }
         }
     }

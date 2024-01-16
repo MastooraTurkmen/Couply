@@ -85,18 +85,22 @@ body {
 }
 .first-section .users-section {
   font-weight: 300;
-  width: 207px;
+  width: 250px;
   margin: 0 auto;
 }
 .first-section .users-section .users-images {
-  height: 54px;
   margin-bottom: 2em;
-}
-.first-section .users-section .users-images .img-first {
-  margin-right: -1em;
+  margin: 0 auto;
 }
 .first-section .users-section .users-images img {
   padding: 0;
-  margin-left: -1em;
+  margin-left: -1.3em;
   display: inline;
+  width: 60px;
+  height: 60px;
+}
+.first-section .users-section .users-images .img-first {
+  margin-left: 0.3em;
+  height: 55px;
+  width: 55px;
 }/*# sourceMappingURL=main.css.map */
