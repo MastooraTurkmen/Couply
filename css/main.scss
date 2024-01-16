@@ -95,3 +95,13 @@
         }
     }
 }
+
+
+.feature-section {
+    padding: 3em 1.5em;
+
+    .col-1 {
+        display: flex;
+        flex-direction: column;
+    }
+}

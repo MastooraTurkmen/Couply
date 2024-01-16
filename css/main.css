@@ -105,4 +105,12 @@ body {
   margin-left: 0.3em;
   height: 55px;
   width: 55px;
+}
+
+.feature-section {
+  padding: 3em 1.5em;
+}
+.feature-section .col-1 {
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=main.css.map */
