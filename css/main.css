@@ -91,4 +91,12 @@ body {
 .first-section .users-section .users-images {
   height: 54px;
   margin-bottom: 2em;
+}
+.first-section .users-section .users-images .img-first {
+  margin-right: -1em;
+}
+.first-section .users-section .users-images img {
+  padding: 0;
+  margin-left: -1em;
+  display: inline;
 }/*# sourceMappingURL=main.css.map */

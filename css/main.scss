@@ -76,6 +76,16 @@
         .users-images {
             height: 54px;
             margin-bottom: 2em;
+
+            .img-first {
+                margin-right: -1em;
+            }
+
+            img {
+                padding: 0;
+                margin-left: -1em;
+                display: inline;
+            }
         }
     }
 }
