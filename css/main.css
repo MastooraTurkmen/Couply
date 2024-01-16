@@ -166,4 +166,10 @@ body {
 
 .frames-section {
   padding: 0 1em;
+  margin-bottom: 2em;
+  height: 100vh;
+}
+.frames-section .frames-col1 .frame {
+  width: 349px;
+  height: 204px;
 }/*# sourceMappingURL=main.css.map */
