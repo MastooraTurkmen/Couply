@@ -1,10 +1,6 @@
 @use 'variables';
 @use 'global';
 
-.wrapper {
-    position: relative;
-}
-
 
 header {
     display: flex;
@@ -18,7 +14,7 @@ header {
         margin: 0;
 
         ul {
-            position: absolute;
+            position: fixed;
             top: 0;
             right: 0;
             height: 100vh;
@@ -27,14 +23,20 @@ header {
             padding: 3em;
             width: 300px;
             list-style-type: none;
+            background-color: var(--color-span);
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            justify-content: center;
             
             li {
                 margin-bottom: 2em;
                 font-size: 1.5em;
-
+                
                 a {
                     text-decoration: none;
-                    color: ;
+                    color: var(--color-white);
+
                 }
             }
         }
