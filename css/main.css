@@ -17,7 +17,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Nunito;
+  font-family: "Nunito", sans-serif;
   background-color: var(--background-color);
 }
 
@@ -148,4 +148,8 @@ body {
   font-weight: 700;
   border-radius: 4px;
   gap: 0.5em;
+}
+
+.black-section {
+  background-color: var(--color-black);
 }/*# sourceMappingURL=main.css.map */
