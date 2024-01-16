@@ -152,7 +152,7 @@ body {
 
 .black-section {
   background-color: var(--color-black);
-  padding: 3em;
+  padding: 3em 2em;
   height: 320px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
