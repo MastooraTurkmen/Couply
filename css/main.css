@@ -49,6 +49,13 @@ header nav ul {
   height: 100vh;
   background-color: white;
   margin: 0;
+  padding: 3em;
+  width: 300px;
+  list-style-type: none;
+}
+header nav ul li {
+  margin-bottom: 2em;
+  font-size: 1.5em;
 }
 header img {
   padding: 0;
