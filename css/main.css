@@ -71,4 +71,9 @@ body {
 .header nav ul li a:hover {
   color: var(--color-span-save);
   font-weight: bold;
+}
+
+.first-section {
+  padding-top: 1em;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
