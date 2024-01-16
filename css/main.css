@@ -155,9 +155,12 @@ body {
   padding: 3em;
   height: 320px;
   display: grid;
+  justify-content: center;
   grid-template-columns: repeat(2, 1fr);
 }
 .black-section img {
   width: 100px;
   height: 50px;
+  margin-bottom: 0;
+  margin: 0 auto;
 }/*# sourceMappingURL=main.css.map */
