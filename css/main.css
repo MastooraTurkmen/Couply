@@ -24,17 +24,13 @@ body {
   display: none;
 }
 
-.wrapper {
-  margin: 1.5em 1.125em;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
   text-align: center;
   align-items: center;
   border-bottom: 2px solid black;
-  padding-bottom: 1em;
+  padding: 1em;
 }
 .header nav {
   display: flex;
