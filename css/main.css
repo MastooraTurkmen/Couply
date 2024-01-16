@@ -85,4 +85,10 @@ body {
 }
 .first-section .users-section {
   font-weight: 300;
+  width: 207px;
+  margin: 0 auto;
+}
+.first-section .users-section .users-images {
+  height: 54px;
+  margin-bottom: 2em;
 }/*# sourceMappingURL=main.css.map */

@@ -70,7 +70,12 @@
 
     .users-section {
         font-weight: 300;
+        width: 207px;
+        margin: 0 auto;
 
-        
+        .users-images {
+            height: 54px;
+            margin-bottom: 2em;
+        }
     }
 }
