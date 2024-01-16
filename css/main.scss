@@ -1,10 +1,35 @@
 @use 'variables';
 @use 'global';
 
+.wrapper {
+    position: relative;
+}
+
 
 header {
     display: flex;
     justify-content: space-between;
     text-align: center;
     align-items: center;
+
+    nav {
+
+        display: flex;
+        margin: 0;
+
+        ul {
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100vh;
+            background-color: white;
+            margin: 0;
+        }
+    }
+
+    img {
+        padding: 0;
+    }
+
+
 }

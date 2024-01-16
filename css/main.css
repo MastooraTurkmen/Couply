@@ -28,9 +28,28 @@ body {
   padding: 1.5em 1.125em;
 }
 
+.wrapper {
+  position: relative;
+}
+
 header {
   display: flex;
   justify-content: space-between;
   text-align: center;
   align-items: center;
+}
+header nav {
+  display: flex;
+  margin: 0;
+}
+header nav ul {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  background-color: white;
+  margin: 0;
+}
+header img {
+  padding: 0;
 }/*# sourceMappingURL=main.css.map */
