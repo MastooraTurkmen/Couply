@@ -117,13 +117,9 @@ body {
 .feature-section .col-1 .first-col1 {
   display: flex;
   flex-direction: row;
+  text-align: center;
   align-items: center;
-  gap: 1em;
   font-size: 1.2em;
-}
-.feature-section .col-1 .first-col1 p {
-  width: 301px;
-  padding: 0;
 }
 .feature-section .col-1 .first-col1 span {
   padding: 0.1em 0.5em;
@@ -132,4 +128,8 @@ body {
   border-radius: 50%;
   font-size: 1em;
   font-weight: 700;
+  align-items: center;
+  margin-right: 1em;
+  align-self: center;
+  display: inline-block;
 }/*# sourceMappingURL=main.css.map */
