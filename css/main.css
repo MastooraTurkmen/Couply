@@ -260,4 +260,7 @@ body {
 footer {
   padding: 2.6875em;
   border-top: 2px solid var(--color-black);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }/*# sourceMappingURL=main.css.map */
