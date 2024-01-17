@@ -195,17 +195,15 @@ body {
   margin-bottom: 0;
   background-color: hsl(0, 0%, 100%);
 }
-.frames-section .frames-col1 .frame .frame-1-img {
-  background-image: url(/images/frame-1.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
+.frames-section .frames-col1 .frame .frame-background {
   width: 345px;
   height: 144px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .frames-section .frames-col1 .frame .frame-1-img {
   background-image: url(/images/frame-1.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 345px;
-  height: 144px;
+}
+.frames-section .frames-col1 .frame .frame-2-img {
+  background-image: url(/images/frame-2.jpeg);
 }/*# sourceMappingURL=main.css.map */

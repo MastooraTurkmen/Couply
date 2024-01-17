@@ -194,20 +194,19 @@
                 
             }
 
-            .frame-1-img {
-                background-image: url(/images/frame-1.jpeg);
-                background-repeat: no-repeat;
-                background-size: cover;
+            .frame-background {
                 width: 345px;
                 height: 144px;
+                background-repeat: no-repeat;
+                background-size: cover;
             }
 
             .frame-1-img {
                 background-image: url(/images/frame-1.jpeg);
-                background-repeat: no-repeat;
-                background-size: cover;
-                width: 345px;
-                height: 144px;
+            }
+
+            .frame-2-img {
+                background-image: url(/images/frame-2.jpeg);
             }
             
         }
