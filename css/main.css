@@ -167,18 +167,18 @@ body {
 
 .frames-section {
   padding: 0 1em;
-  height: 80vh;
-  position: relative;
+  height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .frames-section .frames-col1 {
-  position: absolute;
-  top: -6em;
   display: flex;
   flex-direction: column;
   gap: 1em;
   z-index: 1;
+  margin-top: -9em;
 }
 .frames-section .frames-col1 .frame {
   width: 349px;
@@ -238,10 +238,5 @@ body {
   background-image: url(/images/frame-6.jpeg);
 }
 .frames-section .frames-col2 {
-  margin-top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  flex-direction: row;
+  margin: 2em;
 }/*# sourceMappingURL=main.css.map */
