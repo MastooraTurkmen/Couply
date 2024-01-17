@@ -202,17 +202,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-position-y: 60%;
 }
 .frames-section .frames-col1 .frame .frame-background span {
   background-color: var(--color-black);
   color: var(--color-white);
-  padding: 1.0625em 1.25em;
+  padding: 0.7em 1em;
+  border-top-left-radius: 4px;
   font-size: 1.375em;
   font-weight: 700;
   position: absolute;
   bottom: 0;
   right: 0;
   margin-bottom: -0.1em;
+  text-align: left;
 }
 .frames-section .frames-col1 .frame .frame-1-img {
   background-image: url(/images/frame-1.jpeg);
