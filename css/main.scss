@@ -164,7 +164,7 @@
 
 .frames-section {
     padding: 0 1em;
-    height: 100vh;
+    height: 80vh;
     position: relative;
     display: flex;
     justify-content: center;
@@ -249,8 +249,10 @@
 
     .frames-col2 {
         margin-top: 0;
-        text-align: center;
         display: flex;
-        
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: row;
     }
 }
