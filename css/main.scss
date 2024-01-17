@@ -246,11 +246,15 @@
         }
     }
 
-
     .frames-col2 {
         margin: 2em;
         display: flex;
         justify-content: center;
         align-items: center;
+
+
+        a {
+            font-size: 1.625em;
+        }
     }
 }
