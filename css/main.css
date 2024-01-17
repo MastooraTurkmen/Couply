@@ -258,11 +258,12 @@ body {
 }
 
 footer {
-  padding: 2.6875em;
+  padding: 2.6875em 2.6875em 2em 0.9em;
   border-top: 2px solid var(--color-black);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  gap: 2em;
 }
 footer header {
   display: flex;
