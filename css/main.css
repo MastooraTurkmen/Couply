@@ -166,7 +166,6 @@ body {
 
 .frames-section {
   padding: 0 1em;
-  margin-bottom: 2em;
   height: 100vh;
   position: relative;
   display: flex;
@@ -177,9 +176,7 @@ body {
   top: -6em;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   gap: 1em;
-  margin: 0 auto;
 }
 .frames-section .frames-col1 .frame {
   width: 349px;
