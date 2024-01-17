@@ -283,4 +283,15 @@ footer header .socail .socials-images {
 footer header .socail .socials-images img {
   width: 35px;
   height: 35px;
+}
+footer .footer-div {
+  display: flex;
+  flex-direction: column;
+}
+footer .footer-div ul {
+  display: flex;
+  justify-content: space-between;
+}
+footer .footer-div ul li {
+  list-style-type: none;
 }/*# sourceMappingURL=main.css.map */
