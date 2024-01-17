@@ -222,6 +222,7 @@ body {
 }
 .frames-section .frames-col1 .frame .frame-3-img {
   background-image: url(/images/frame-3.jpeg);
+  background-position: right;
 }
 .frames-section .frames-col1 .frame .frame-4-img {
   background-image: url(/images/frame-4.jpeg);
