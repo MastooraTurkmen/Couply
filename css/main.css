@@ -246,7 +246,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1em;
+  gap: 0.7em;
 }
 .frames-section .frames-col2 img {
   width: 35px;
