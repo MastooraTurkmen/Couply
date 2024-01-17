@@ -251,7 +251,12 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        gap: 1em;
 
+        img {
+            width: 35px;
+            height: 35px;
+        }
 
         a {
             font-size: 1.625em;

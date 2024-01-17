@@ -242,6 +242,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 1em;
+}
+.frames-section .frames-col2 img {
+  width: 35px;
+  height: 35px;
 }
 .frames-section .frames-col2 a {
   font-size: 1.625em;
