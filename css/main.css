@@ -239,4 +239,7 @@ body {
 }
 .frames-section .frames-col2 {
   margin: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
