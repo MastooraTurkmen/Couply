@@ -200,6 +200,11 @@
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center;
+
+                span {
+                    background-color: var(--color-black);
+                    color: var(--color-white);
+                }
             }
 
             .frame-1-img {

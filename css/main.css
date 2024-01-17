@@ -202,6 +202,10 @@ body {
   background-size: cover;
   background-position: center;
 }
+.frames-section .frames-col1 .frame .frame-background span {
+  background-color: var(--color-black);
+  color: var(--color-white);
+}
 .frames-section .frames-col1 .frame .frame-1-img {
   background-image: url(/images/frame-1.jpeg);
 }
