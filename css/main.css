@@ -236,4 +236,9 @@ body {
 }
 .frames-section .frames-col1 .frame .frame-6-img {
   background-image: url(/images/frame-6.jpeg);
+}
+.frames-section .frames-col2 {
+  margin-top: 0;
+  text-align: center;
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
