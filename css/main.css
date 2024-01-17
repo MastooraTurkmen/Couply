@@ -172,4 +172,6 @@ body {
 .frames-section .frames-col1 .frame {
   width: 349px;
   height: 204px;
+  border-radius: 4px;
+  border: 2px solid #000;
 }/*# sourceMappingURL=main.css.map */
