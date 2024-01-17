@@ -255,4 +255,9 @@ body {
 .frames-section .frames-col2 a {
   font-size: 1.625em;
   color: var(--color-black);
+}
+
+footer {
+  padding: 2.6875em;
+  border-top: 2px solid var(--color-black);
 }/*# sourceMappingURL=main.css.map */
