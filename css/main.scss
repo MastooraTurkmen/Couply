@@ -201,7 +201,6 @@
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center;
-                background-position-y: 60%;
 
                 span {
                     background-color: var(--color-black);
@@ -220,15 +219,17 @@
 
             .frame-1-img {
                 background-image: url(/images/frame-1.jpeg);
+                background-position-y: 60%;
             }
 
             .frame-2-img {
                 background-image: url(/images/frame-2.jpeg);
+                background-position-y: 80%;
             }
             
             .frame-3-img {
                 background-image: url(/images/frame-3.jpeg);
-                background-position: right;
+                background-position-y: 80%;
             }
 
             .frame-4-img {
