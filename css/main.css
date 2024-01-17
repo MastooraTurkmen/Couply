@@ -243,6 +243,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1em;
+  padding: 4.5em;
 }
 .frames-section .frames-col2 img {
   width: 35px;
@@ -250,4 +251,5 @@ body {
 }
 .frames-section .frames-col2 a {
   font-size: 1.625em;
+  color: var(--color-black);
 }/*# sourceMappingURL=main.css.map */
