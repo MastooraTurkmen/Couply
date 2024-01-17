@@ -192,10 +192,13 @@ body {
   font-weight: 700;
   padding: 1.12em;
   margin-top: 0;
+  margin-bottom: 0;
   background-color: hsl(0, 0%, 100%);
 }
 .frames-section .frames-col1 .frame .frame-back-img {
   background-image: url(/images/frame-1.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
+  width: 345px;
+  height: 144px;
 }/*# sourceMappingURL=main.css.map */
