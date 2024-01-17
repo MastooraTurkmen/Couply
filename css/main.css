@@ -1,5 +1,5 @@
 :root {
-  ---color-light: #6C7667;
+  --color-light: #6C7667;
   --background-color: #E8F5E2;
   --color-span: #779469;
   --color-span-save: #608A4D;
@@ -305,4 +305,5 @@ footer .footer-div ul li a {
 footer .footer-div div {
   text-align: center;
   margin-bottom: 2em;
+  color: var(--color-light);
 }/*# sourceMappingURL=main.css.map */
