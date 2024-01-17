@@ -269,11 +269,31 @@
     }
 }
 
-
 footer {
     padding: 2.6875em;
     border-top: 2px solid var(--color-black);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+
+        .socail {
+
+            .socials-images {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+
+                img {
+                    width: 40px;
+                    height: 40px;
+                }
+            }
+        }
+    }
 }

@@ -263,4 +263,19 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+footer header {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+footer header .socail .socials-images {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+footer header .socail .socials-images img {
+  width: 40px;
+  height: 40px;
 }/*# sourceMappingURL=main.css.map */
