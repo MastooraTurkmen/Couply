@@ -110,6 +110,7 @@ body {
 
 .feature-section {
   padding: 3em 1.5em;
+  border-bottom: 2px solid var(--color-black);
 }
 .feature-section .col-1 {
   display: flex;
@@ -172,13 +173,15 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: var(--color-white);
 }
 .frames-section .frames-col1 {
   display: flex;
   flex-direction: column;
   gap: 1em;
   z-index: 1;
-  margin-top: -9em;
+  margin-top: -5em;
+  margin-bottom: 4em;
 }
 .frames-section .frames-col1 .frame {
   width: 349px;
@@ -243,7 +246,6 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1em;
-  padding: 4.5em;
 }
 .frames-section .frames-col2 img {
   width: 35px;
