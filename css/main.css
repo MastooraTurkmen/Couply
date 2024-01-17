@@ -205,7 +205,7 @@ body {
 .frames-section .frames-col1 .frame .frame-background span {
   background-color: var(--color-black);
   color: var(--color-white);
-  padding: 1em;
+  padding: 1.0625em 1.25em;
   font-size: 1.375em;
   font-weight: 700;
 }
