@@ -287,6 +287,8 @@ footer header .socail .socials-images img {
 footer .footer-div {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+  gap: 1em;
 }
 footer .footer-div ul {
   display: flex;
@@ -294,6 +296,7 @@ footer .footer-div ul {
 }
 footer .footer-div ul li {
   list-style-type: none;
+  font-size: 1.25em;
 }
 footer .footer-div ul li a {
   text-decoration: none;

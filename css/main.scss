@@ -307,6 +307,8 @@ footer {
     .footer-div {
         display: flex;
         flex-direction: column;
+        justify-content: space-between;
+        gap: 1em;
 
         ul {
             display: flex;
@@ -314,6 +316,7 @@ footer {
 
             li {
                 list-style-type: none;
+                font-size: 1.25em;
 
                 a {
                     text-decoration: none;
