@@ -294,4 +294,8 @@ footer .footer-div ul {
 }
 footer .footer-div ul li {
   list-style-type: none;
+}
+footer .footer-div ul li a {
+  text-decoration: none;
+  color: var(--color-black);
 }/*# sourceMappingURL=main.css.map */
