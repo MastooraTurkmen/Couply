@@ -269,6 +269,11 @@ footer header {
   justify-content: space-between;
   text-align: center;
 }
+footer header img {
+  width: 150px;
+  height: 33px;
+  margin: 0;
+}
 footer header .socail .socials-images {
   display: flex;
   flex-direction: row;
@@ -276,6 +281,6 @@ footer header .socail .socials-images {
   justify-content: space-between;
 }
 footer header .socail .socials-images img {
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
 }/*# sourceMappingURL=main.css.map */

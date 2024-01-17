@@ -281,6 +281,12 @@ footer {
         justify-content: space-between;
         text-align: center;
 
+        img {
+            width: 150px;
+            height: 33px;
+            margin: 0;
+        }
+
         .socail {
 
             .socials-images {
@@ -290,8 +296,8 @@ footer {
                 justify-content: space-between;
 
                 img {
-                    width: 40px;
-                    height: 40px;
+                    width: 35px;
+                    height: 35px;
                 }
             }
         }
