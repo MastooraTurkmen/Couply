@@ -200,6 +200,7 @@ body {
   height: 144px;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .frames-section .frames-col1 .frame .frame-1-img {
   background-image: url(/images/frame-1.jpeg);
