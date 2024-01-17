@@ -212,4 +212,10 @@ body {
 }
 .frames-section .frames-col1 .frame .frame-4-img {
   background-image: url(/images/frame-4.jpeg);
+}
+.frames-section .frames-col1 .frame .frame-5-img {
+  background-image: url(/images/frame-5.jpeg);
+}
+.frames-section .frames-col1 .frame .frame-6-img {
+  background-image: url(/images/frame-6.jpeg);
 }/*# sourceMappingURL=main.css.map */
