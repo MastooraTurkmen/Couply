@@ -343,7 +343,11 @@ footer {
                 padding: unset;
 
                 .hide-desktop {
-                        display: none;
+                    display: none;
+                }
+
+                li {
+                    margin: unset;
                 }
             }
         }

@@ -332,4 +332,7 @@ footer .footer-div div {
   .header nav ul .hide-desktop {
     display: none;
   }
+  .header nav ul li {
+    margin: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
