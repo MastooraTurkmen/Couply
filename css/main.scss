@@ -154,7 +154,6 @@
     height: 320px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    z-index: 0;
 
     img {
         width: 100px;
@@ -179,7 +178,6 @@
         display: flex;
         flex-direction: column;
         gap: 1em;
-        z-index: 1;
         margin-top: -5em;
         margin-bottom: 3em;
                
