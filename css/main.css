@@ -328,5 +328,7 @@ footer .footer-div div {
 @media only screen and (min-width: 500px) {
   .header nav ul {
     position: unset;
+    width: unset;
+    height: unset;
   }
 }/*# sourceMappingURL=main.css.map */
