@@ -333,6 +333,9 @@ footer {
 
 @media only screen and (min-width: 600px) {
     .header {
+        display: flex;
+        justify-content: space-between;
+
         nav {
 
             ul {
