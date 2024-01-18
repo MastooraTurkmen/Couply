@@ -5,11 +5,11 @@ const nav = document.querySelector(".nav-bar")
 
 menuBtn.addEventListener('click', function (e) {
     e.preventDefault();
-    nav.classList.toggle("menu-icon")
+    nav.classList.toggle("menu-icon");
 })
 
 
 closeBtn.addEventListener('click', function (e) {
     e.preventDefault();
-    nav.classList.toggle("menu-icon")
+    nav.classList.toggle("menu-icon");
 })
