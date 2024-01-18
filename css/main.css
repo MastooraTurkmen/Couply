@@ -340,4 +340,7 @@ footer .footer-div div {
   .header nav ul li {
     margin: unset;
   }
+  .header nav ul li a {
+    color: var(--color-black);
+  }
 }/*# sourceMappingURL=main.css.map */

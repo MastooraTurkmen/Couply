@@ -352,6 +352,10 @@ footer {
 
                 li {
                     margin: unset;
+
+                    a {
+                       color: var(--color-black);
+                    }
                 }
             }
         }
