@@ -347,5 +347,7 @@ footer .footer-div div {
   }
   .header a {
     text-decoration: none;
+    color: var(--color-black);
+    padding: 0.2em 0.8em;
   }
 }/*# sourceMappingURL=main.css.map */
