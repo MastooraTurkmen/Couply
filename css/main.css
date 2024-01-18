@@ -325,7 +325,7 @@ footer .footer-div div {
   color: var(--color-light);
 }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 600px) {
   .header nav ul {
     position: unset;
     width: unset;
