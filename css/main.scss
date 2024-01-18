@@ -15,11 +15,6 @@
         transition: transform .5s;
         transform: translateX(100);
 
-        .close-icon{
-            width: 50px;
-            height: 50px;
-        }
-
         ul {
             list-style-type: none;
             position: fixed;
@@ -339,12 +334,17 @@ footer {
 @media only screen and (min-width: 600px) {
     .header {
         nav {
+
             ul {
                 position: unset;
                 width: unset;
                 height: unset;
                 display: flex;
                 padding: unset;
+
+                .hide-desktop {
+                        display: none;
+                }
             }
         }
     }
