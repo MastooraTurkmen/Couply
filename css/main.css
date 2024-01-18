@@ -339,6 +339,7 @@ footer .footer-div div {
   }
   .header nav ul li {
     margin: unset;
+    font-size: 1.12em;
   }
   .header nav ul li a {
     color: var(--color-black);
