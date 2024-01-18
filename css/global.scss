@@ -24,3 +24,14 @@ body {
     cursor: pointer;
 
 }
+
+
+@media only screen and (min-width: 500px){
+    .hide-mobile {
+        display: unset;
+    }
+
+    .hide-desktop {
+        display: none;
+    }
+}
