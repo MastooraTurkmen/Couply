@@ -25,6 +25,14 @@ body {
   display: none;
 }
 
+.menu-icon {
+  transform: translateX(100%);
+}
+
+.open-icon {
+  cursor: pointer;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -36,6 +44,8 @@ body {
 .header nav {
   display: flex;
   margin: 0;
+  transition: transform 0.5s;
+  transform: translateX(100);
 }
 .header nav .close-icon {
   width: 50px;

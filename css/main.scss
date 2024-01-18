@@ -12,6 +12,8 @@
     nav {
         display: flex;
         margin: 0;
+        transition: transform .5s;
+        transform: translateX(100);
 
         .close-icon{
             width: 50px;
