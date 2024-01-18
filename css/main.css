@@ -6,6 +6,7 @@
   --color-white: #fff;
   --color-black: #000;
   --background-color-btn: #9BC588;
+  --background-start-btn: #C6DBBD;
 }
 
 *,
@@ -345,9 +346,12 @@ footer .footer-div div {
   .header nav ul li a {
     color: var(--color-black);
   }
-  .header a {
+  .header .start-btn {
     text-decoration: none;
     color: var(--color-black);
     padding: 0.2em 0.8em;
+    border-radius: 4px;
+    border: 1px solid #000;
+    background-color: var(--background-start-btn);
   }
 }/*# sourceMappingURL=main.css.map */
