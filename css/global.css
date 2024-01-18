@@ -13,4 +13,12 @@ body {
 
 .hide-mobile {
   display: none;
+}
+
+.menu-icon {
+  transform: translateX(0);
+}
+
+.open-icon {
+  cursor: pointer;
 }/*# sourceMappingURL=global.css.map */
