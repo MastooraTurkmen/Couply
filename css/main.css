@@ -345,4 +345,7 @@ footer .footer-div div {
   .header nav ul li a {
     color: var(--color-black);
   }
+  .header a {
+    text-decoration: none;
+  }
 }/*# sourceMappingURL=main.css.map */
