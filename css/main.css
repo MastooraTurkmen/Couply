@@ -330,5 +330,7 @@ footer .footer-div div {
     position: unset;
     width: unset;
     height: unset;
+    display: flex;
+    padding: unset;
   }
 }/*# sourceMappingURL=main.css.map */
