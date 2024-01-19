@@ -456,4 +456,7 @@ footer .footer-div div {
   .black-section {
     display: flex;
   }
+  .frames-section {
+    padding: 0 3em;
+  }
 }/*# sourceMappingURL=main.css.map */
