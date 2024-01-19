@@ -336,7 +336,7 @@ footer .footer-div div {
     display: flex;
     padding: unset;
     background-color: unset;
-    gap: 2em;
+    gap: 1em;
   }
   .header nav ul .hide-desktop {
     display: none;
