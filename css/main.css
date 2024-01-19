@@ -405,7 +405,7 @@ footer .footer-div div {
     display: flex;
     background-color: var(--color-white);
     padding: 1em;
-    border-radius: 2.75em;
+    border-radius: 2em;
     gap: 1em;
     justify-content: space-between;
   }
@@ -417,6 +417,7 @@ footer .footer-div div {
     margin: 0;
   }
   .first-section .users .user-talked .white-space-user {
+    display: flex;
     flex-direction: column;
   }
   .first-section .users .user-talked .white-space-user p {
