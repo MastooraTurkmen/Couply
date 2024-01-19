@@ -389,5 +389,11 @@ footer .footer-div div {
     background-color: var(--color-white);
     padding: 1em;
     border-radius: 2.75em;
+    gap: 1em;
+    justify-content: space-between;
+  }
+  .first-section .users .user-talked img {
+    width: 60px;
+    height: 60px;
   }
 }/*# sourceMappingURL=main.css.map */
