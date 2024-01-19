@@ -465,6 +465,7 @@ footer .footer-div div {
   }
   .frames-section .frames-col2 {
     display: flex;
+    margin: 0;
     margin-right: auto;
   }
 }/*# sourceMappingURL=main.css.map */
