@@ -384,6 +384,9 @@ footer {
         .users {
             display: flex;
 
+            .users-section {
+                 margin: unset;
+            }
         }
 
         

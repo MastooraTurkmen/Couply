@@ -365,4 +365,7 @@ footer .footer-div div {
   .first-section .users {
     display: flex;
   }
+  .first-section .users .users-section {
+    margin: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
