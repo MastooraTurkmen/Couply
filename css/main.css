@@ -463,4 +463,8 @@ footer .footer-div div {
     display: grid;
     grid-template-columns: repeat(2, auto);
   }
+  .frames-section .frames-col2 {
+    display: flex;
+    margin-right: auto;
+  }
 }/*# sourceMappingURL=main.css.map */

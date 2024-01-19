@@ -505,7 +505,12 @@ footer {
         .frames-col1 {
             display: grid;
             grid-template-columns: repeat(2, auto);
-    }
+        }
+
+        .frames-col2 {
+            display: flex;
+            margin-right: auto;
+        }
     }
 
 }
