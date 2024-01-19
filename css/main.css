@@ -38,7 +38,7 @@ strong {
   color: var(--color-strong-save);
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 650px) {
   .hide-mobile {
     display: unset;
   }
@@ -328,7 +328,7 @@ footer .footer-div div {
   color: var(--color-light);
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 650px) {
   .header {
     display: flex;
     justify-content: space-between;
