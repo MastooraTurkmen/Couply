@@ -356,4 +356,10 @@ footer .footer-div div {
     font-weight: 700;
     font-size: 1.12em;
   }
+  .first-section {
+    text-align: left;
+  }
+  .first-section h1 {
+    margin: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
