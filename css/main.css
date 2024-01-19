@@ -362,4 +362,7 @@ footer .footer-div div {
   .first-section h1 {
     margin: unset;
   }
+  .first-section .users {
+    display: flex;
+  }
 }/*# sourceMappingURL=main.css.map */
