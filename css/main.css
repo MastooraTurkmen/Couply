@@ -457,6 +457,10 @@ footer .footer-div div {
     display: flex;
   }
   .frames-section {
-    padding: 0 3em;
+    padding: 0 4em;
+  }
+  .frames-section .frames-col1 {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
   }
 }/*# sourceMappingURL=main.css.map */

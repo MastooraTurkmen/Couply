@@ -500,8 +500,12 @@ footer {
     }
 
     .frames-section {
-        padding: 0 3em;
+        padding: 0 4em;
 
+        .frames-col1 {
+            display: grid;
+            grid-template-columns: repeat(2, auto);
+    }
     }
 
 }
