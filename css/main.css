@@ -116,6 +116,9 @@ body {
   display: inline;
   width: 60px;
   height: 60px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
 }
 .first-section .users-section .users-images .img-first {
   margin-left: 0.3em;
@@ -384,16 +387,38 @@ footer .footer-div div {
   .first-section .users .users-section {
     margin: unset;
   }
+  .first-section .users .users-section .users-images {
+    margin: unset;
+  }
+  .first-section .users .users-section .users-images img {
+    width: 48px;
+    height: 48px;
+  }
+  .first-section .users .users-section .users-images .img-first {
+    width: 45px;
+  }
   .first-section .users .user-talked {
     display: flex;
     background-color: var(--color-white);
     padding: 1em;
-    border-radius: 2.75em;
     gap: 1em;
     justify-content: space-between;
   }
   .first-section .users .user-talked img {
     width: 60px;
     height: 60px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    margin: 0;
+  }
+  .first-section .users .user-talked .white-space-user {
+    display: flex;
+    flex-direction: column;
+  }
+  .first-section .users .user-talked .white-space-user p {
+    margin: 0;
+  }
+  .first-section .users .user-talked .white-space-user span {
+    margin: 0;
   }
 }/*# sourceMappingURL=main.css.map */
