@@ -437,7 +437,7 @@ footer {
                 display: flex;
                 background-color: var(--color-white);
                 padding: 1em;
-                border-radius: 2.75em;
+                border-radius: 2em;
                 gap: 1em;
                 justify-content: space-between;
 
@@ -449,7 +449,7 @@ footer {
                 }
 
                 .white-space-user {
-                    // display: flex;
+                    display: flex;
                     flex-direction: column;
 
                     p {
