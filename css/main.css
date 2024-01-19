@@ -384,4 +384,7 @@ footer .footer-div div {
   .first-section .users .users-section {
     margin: unset;
   }
+  .first-section .users .user-talked {
+    display: flex;
+  }
 }/*# sourceMappingURL=main.css.map */
