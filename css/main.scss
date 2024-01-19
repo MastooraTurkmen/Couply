@@ -82,6 +82,8 @@
                 display: inline;
                 width: 60px;
                 height: 60px;
+                object-fit: cover;
+                border-radius: 50%;
             }
 
             .img-first {
@@ -411,19 +413,48 @@ footer {
 
             .users-section {
                  margin: unset;
+                
+                .users-images {
+                    margin: unset;
+                    
+                    img {
+                        width: 48px;
+                        height: 48px;
+                    }
+
+                    .img-first {
+                        width: 45px;
+                    }
+                }
             }
 
             .user-talked {
                 display: flex;
                 background-color: var(--color-white);
                 padding: 1em;
-                border-radius: 2.75em;
+                // margin-bottom: 0;
+                // border-radius: 2.75em;
                 gap: 1em;
                 justify-content: space-between;
 
                 img {
                     width: 60px;
                     height: 60px;
+                    object-fit: cover;
+                    margin: 0;
+                }
+
+                .white-space-user {
+                    display: flex;
+                    flex-direction: column;
+
+                    p {
+                        margin: 0;
+                    }
+
+                    span {
+                        margin: 0;
+                    }
                 }
             }
         }
