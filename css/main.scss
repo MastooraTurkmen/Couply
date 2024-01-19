@@ -470,7 +470,10 @@ footer {
         padding-left: 2em;
         padding-right: 2em;
 
-        
+        .col-1 {
+            display: flex;
+            flex-direction: row;
+        }
     }
 
 }
