@@ -449,4 +449,8 @@ footer .footer-div div {
   .feature-section .col-1 .first-col1 span {
     align-self: first baseline;
   }
+  .feature-section a {
+    display: inline-block;
+    font-size: 1.375em;
+  }
 }/*# sourceMappingURL=main.css.map */
