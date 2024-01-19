@@ -326,6 +326,8 @@ footer .footer-div div {
   .header {
     display: flex;
     justify-content: space-between;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   .header nav ul {
     position: unset;
