@@ -387,5 +387,7 @@ footer .footer-div div {
   .first-section .users .user-talked {
     display: flex;
     background-color: var(--color-white);
+    padding: 1em;
+    border-radius: 2.75em;
   }
 }/*# sourceMappingURL=main.css.map */
