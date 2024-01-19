@@ -2,7 +2,7 @@
   --color-light: #6C7667;
   --background-color: #E8F5E2;
   --color-span: #779469;
-  --color-span-save: #608A4D;
+  --color-strong-save: #608A4D;
   --color-white: #fff;
   --color-black: #000;
   --background-color-btn: #9BC588;
@@ -32,6 +32,10 @@ body {
 
 .open-icon {
   cursor: pointer;
+}
+
+strong {
+  color: var(--color-strong-save);
 }
 
 @media only screen and (min-width: 600px) {
