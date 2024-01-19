@@ -120,7 +120,6 @@
                 align-items: center;
                 margin-right: 1em;
                 align-self: center;
-                display: inline-block;
             }
 
         }
@@ -473,11 +472,19 @@ footer {
         .col-1 {
             display: flex;
             flex-direction: row;
+            text-align: left;
             gap: 2em;
 
             .first-col1 {
                 display: flex;
                 flex-direction: column;
+                align-items: unset;
+                justify-content: left;
+                text-align: left;
+
+                span {
+                    align-self: first baseline;
+                }
             }
         }
     }
