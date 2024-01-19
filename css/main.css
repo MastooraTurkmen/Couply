@@ -253,12 +253,15 @@ strong {
 }
 .frames-section .frames-col1 .frame .frame-4-img {
   background-image: url(/images/frame-4.jpeg);
+  background-position-y: 60%;
 }
 .frames-section .frames-col1 .frame .frame-5-img {
   background-image: url(/images/frame-5.jpeg);
+  background-position-y: 60%;
 }
 .frames-section .frames-col1 .frame .frame-6-img {
   background-image: url(/images/frame-6.jpeg);
+  background-position-y: 80%;
 }
 .frames-section .frames-col2 {
   margin: 2em;
@@ -462,10 +465,23 @@ footer .footer-div div {
   .frames-section .frames-col1 {
     display: grid;
     grid-template-columns: repeat(2, auto);
+    margin-top: -16em;
+  }
+  .frames-section .frames-col1 .frame .frame-background {
+    width: 345px;
+    background-size: cover;
+  }
+  .frames-section .frames-col1 .frame .frame-4-img {
+    width: 345px;
+    margin-left: -1.1em;
+    margin-bottom: -1.2em;
   }
   .frames-section .frames-col2 {
     display: flex;
     margin: 0;
     margin-right: auto;
+  }
+  .frames-section .frames-col2 a {
+    font-size: 1.625em;
   }
 }/*# sourceMappingURL=main.css.map */
