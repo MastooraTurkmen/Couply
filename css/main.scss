@@ -379,10 +379,20 @@ footer {
 
     .first-section {
         text-align: left;
-        padding: 5em;
+        padding: 1.5em;
+        margin-top: 2em;
+
+        .first-section-header {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+        }
 
         h1 {
             margin: unset;
+            width: 490px;
+
         }
 
         .users {
