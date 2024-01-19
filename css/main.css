@@ -405,18 +405,18 @@ footer .footer-div div {
     display: flex;
     background-color: var(--color-white);
     padding: 1em;
+    border-radius: 2.75em;
     gap: 1em;
     justify-content: space-between;
   }
   .first-section .users .user-talked img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     -o-object-fit: cover;
        object-fit: cover;
     margin: 0;
   }
   .first-section .users .user-talked .white-space-user {
-    display: flex;
     flex-direction: column;
   }
   .first-section .users .user-talked .white-space-user p {
