@@ -234,14 +234,17 @@
 
             .frame-4-img {
                 background-image: url(/images/frame-4.jpeg);
+                background-position-y: 60%;
             }
 
             .frame-5-img {
                 background-image: url(/images/frame-5.jpeg);
+                background-position-y: 60%;
             }
 
             .frame-6-img {
                 background-image: url(/images/frame-6.jpeg);
+                background-position-y: 80%;
             }
         }
     }
@@ -505,12 +508,31 @@ footer {
         .frames-col1 {
             display: grid;
             grid-template-columns: repeat(2, auto);
+          margin-top: -16em;
+
+            .frame {
+
+                .frame-background {
+                    width: 345px;                    
+                    background-size: cover;
+                }
+
+                .frame-4-img {
+                    width: 345px;
+                    margin-left: -1.1em;
+                    margin-bottom: -1.2em;
+                }
+            }
         }
 
         .frames-col2 {
             display: flex;
             margin: 0;
             margin-right: auto;
+            
+            a {
+                font-size: 1.625em;
+            }
         }
     }
 
