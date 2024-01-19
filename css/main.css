@@ -453,4 +453,7 @@ footer .footer-div div {
     display: inline-block;
     font-size: 1.375em;
   }
+  .black-section {
+    display: flex;
+  }
 }/*# sourceMappingURL=main.css.map */
