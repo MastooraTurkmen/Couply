@@ -360,10 +360,17 @@ footer .footer-div div {
   }
   .first-section {
     text-align: left;
-    padding: 5em;
+    padding: 1.5em;
+    margin-top: 2em;
+  }
+  .first-section .first-section-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
   }
   .first-section h1 {
     margin: unset;
+    width: 490px;
   }
   .first-section .users {
     display: flex;
