@@ -426,4 +426,8 @@ footer .footer-div div {
   .first-section .users .user-talked .white-space-user span {
     margin: 0;
   }
+  .feature-section {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
 }/*# sourceMappingURL=main.css.map */
