@@ -376,6 +376,7 @@ footer {
 
     .first-section {
         text-align: left;
+        padding: 5em;
 
         h1 {
             margin: unset;
@@ -383,6 +384,7 @@ footer {
 
         .users {
             display: flex;
+            gap: 2em;
 
             .users-section {
                  margin: unset;

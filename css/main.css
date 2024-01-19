@@ -358,12 +358,14 @@ footer .footer-div div {
   }
   .first-section {
     text-align: left;
+    padding: 5em;
   }
   .first-section h1 {
     margin: unset;
   }
   .first-section .users {
     display: flex;
+    gap: 2em;
   }
   .first-section .users .users-section {
     margin: unset;
