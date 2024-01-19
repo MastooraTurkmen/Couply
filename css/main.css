@@ -433,5 +433,6 @@ footer .footer-div div {
   .feature-section .col-1 {
     display: flex;
     flex-direction: row;
+    gap: 2em;
   }
 }/*# sourceMappingURL=main.css.map */
