@@ -368,6 +368,9 @@ footer .footer-div div {
     flex-direction: row;
     align-items: center;
   }
+  .first-section .first-section-header img {
+    margin-top: -4em;
+  }
   .first-section h1 {
     margin: unset;
     width: 490px;
