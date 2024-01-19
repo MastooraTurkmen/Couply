@@ -413,6 +413,10 @@ footer {
 
             .users-section {
                  margin: unset;
+
+                p {
+                    font-size: 1em;
+                }
                 
                 .users-images {
                     margin: unset;
@@ -424,6 +428,7 @@ footer {
 
                     .img-first {
                         width: 45px;
+                        height: 45px;
                     }
                 }
             }

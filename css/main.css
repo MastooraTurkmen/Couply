@@ -387,6 +387,9 @@ footer .footer-div div {
   .first-section .users .users-section {
     margin: unset;
   }
+  .first-section .users .users-section p {
+    font-size: 1em;
+  }
   .first-section .users .users-section .users-images {
     margin: unset;
   }
@@ -396,6 +399,7 @@ footer .footer-div div {
   }
   .first-section .users .users-section .users-images .img-first {
     width: 45px;
+    height: 45px;
   }
   .first-section .users .user-talked {
     display: flex;
