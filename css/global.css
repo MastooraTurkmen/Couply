@@ -23,6 +23,10 @@ body {
   cursor: pointer;
 }
 
+strong {
+  color: var(--color-strong-save);
+}
+
 @media only screen and (min-width: 600px) {
   .hide-mobile {
     display: unset;
