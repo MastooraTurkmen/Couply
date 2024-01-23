@@ -500,6 +500,9 @@ footer {
 
     .black-section {
         display: flex;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: -5em;
     }
 
     .frames-section {
@@ -508,7 +511,7 @@ footer {
         .frames-col1 {
             display: grid;
             grid-template-columns: repeat(2, auto);
-          margin-top: -16em;
+            margin-top: -10em;
 
             .frame {
 

@@ -458,6 +458,9 @@ footer .footer-div div {
   }
   .black-section {
     display: flex;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: -5em;
   }
   .frames-section {
     padding: 0 2em;
@@ -465,7 +468,7 @@ footer .footer-div div {
   .frames-section .frames-col1 {
     display: grid;
     grid-template-columns: repeat(2, auto);
-    margin-top: -16em;
+    margin-top: -10em;
   }
   .frames-section .frames-col1 .frame .frame-background {
     width: 345px;
