@@ -579,5 +579,15 @@ footer {
 
     .header-container {
         display: flex;
+        align-items: center;
+
+        .first-section, 
+        .feature-section {
+            border-bottom: unset;
+        }
+
+        .col-1 {
+            flex-direction: column ;
+        }
     }
 }

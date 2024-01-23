@@ -521,5 +521,13 @@ footer .footer-div div {
   }
   .header-container {
     display: flex;
+    align-items: center;
+  }
+  .header-container .first-section,
+  .header-container .feature-section {
+    border-bottom: unset;
+  }
+  .header-container .col-1 {
+    flex-direction: column;
   }
 }/*# sourceMappingURL=main.css.map */
