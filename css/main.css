@@ -490,4 +490,13 @@ footer .footer-div div {
   .frames-section .frames-col2 a {
     font-size: 1.625em;
   }
+  footer {
+    display: flex;
+    flex-direction: row;
+  }
+  footer header {
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+  }
 }/*# sourceMappingURL=main.css.map */

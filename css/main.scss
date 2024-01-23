@@ -543,4 +543,15 @@ footer {
         }
     }
 
+    footer {
+        display: flex;
+        flex-direction: row;
+
+        header {
+            display: flex;
+            flex-direction: column;
+            gap: 3em;
+        }
+    }
+
 }
