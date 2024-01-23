@@ -500,9 +500,14 @@ footer .footer-div div {
     flex-direction: column;
     gap: 3em;
   }
+  footer header .socail,
+  footer .footer-div .socail {
+    margin-left: 2em;
+  }
   footer header .links,
   footer .footer-div .links {
     gap: 2em;
+    margin-top: 0;
   }
   footer header .copyright,
   footer .footer-div .copyright {

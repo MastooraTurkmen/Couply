@@ -553,9 +553,13 @@ footer {
             flex-direction: column;
             gap: 3em;
 
+            .socail {
+                margin-left: 2em;
+            }
 
             .links {
                 gap: 2em;
+                margin-top: 0;
             }
 
             .copyright {
