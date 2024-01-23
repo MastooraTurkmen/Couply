@@ -494,9 +494,14 @@ footer .footer-div div {
     display: flex;
     flex-direction: row;
   }
-  footer header {
+  footer header,
+  footer .footer-div {
     display: flex;
     flex-direction: column;
     gap: 3em;
+  }
+  footer header .links,
+  footer .footer-div .links {
+    gap: 2em;
   }
 }/*# sourceMappingURL=main.css.map */

@@ -547,10 +547,16 @@ footer {
         display: flex;
         flex-direction: row;
 
-        header {
+        header, 
+        .footer-div {
             display: flex;
             flex-direction: column;
             gap: 3em;
+
+
+            .links {
+                gap: 2em;
+            }
         }
     }
 
