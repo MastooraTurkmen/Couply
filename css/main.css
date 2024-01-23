@@ -516,12 +516,13 @@ footer .footer-div div {
   }
 }
 @media (min-width: 1000px) {
-  .header {
+  .header, .header-container {
     padding: 2em 10em;
   }
   .header-container {
     display: flex;
     align-items: center;
+    margin-left: 0;
   }
   .header-container .first-section,
   .header-container .feature-section {
@@ -532,5 +533,10 @@ footer .footer-div div {
   }
   .header-container .col-1 .first-col1 {
     flex-direction: row;
+    text-align: center;
+    gap: 1em;
+  }
+  .header-container .col-1 .first-col1 span, .header-container .col-1 .first-col1 p {
+    margin: 0;
   }
 }/*# sourceMappingURL=main.css.map */

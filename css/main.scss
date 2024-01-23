@@ -573,17 +573,19 @@ footer {
 
 
 @media (min-width: 1000px) {
-    .header {
+    .header, .header-container {
         padding: 2em 10em;
     }
 
     .header-container {
         display: flex;
         align-items: center;
+        margin-left: 0;
 
         .first-section, 
         .feature-section {
             border-bottom: unset;
+            
         }
 
         .col-1 {
@@ -591,6 +593,12 @@ footer {
 
             .first-col1 {
                 flex-direction: row;
+                text-align: center;
+                gap: 1em;
+
+                span, p {
+                    margin: 0;
+                }
             }
         }
     }
