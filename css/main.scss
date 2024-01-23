@@ -587,7 +587,11 @@ footer {
         }
 
         .col-1 {
-            flex-direction: column ;
+            flex-direction: column;
+
+            .first-col1 {
+                flex-direction: row;
+            }
         }
     }
 }

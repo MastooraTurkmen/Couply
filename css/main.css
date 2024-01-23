@@ -530,4 +530,7 @@ footer .footer-div div {
   .header-container .col-1 {
     flex-direction: column;
   }
+  .header-container .col-1 .first-col1 {
+    flex-direction: row;
+  }
 }/*# sourceMappingURL=main.css.map */
