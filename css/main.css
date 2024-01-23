@@ -531,6 +531,9 @@ footer .footer-div div {
   .header-container .first-section {
     padding-left: 0;
   }
+  .header-container .feature-section {
+    border-left: 2px solid var(--color-black);
+  }
   .header-container .col-1 {
     flex-direction: column;
   }
