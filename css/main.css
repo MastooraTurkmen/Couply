@@ -514,4 +514,9 @@ footer .footer-div div {
     font-size: 0.8em;
     text-align: right;
   }
+}
+@media (min-width: 1000px) {
+  .header {
+    padding: 2em 10em;
+  }
 }/*# sourceMappingURL=main.css.map */
