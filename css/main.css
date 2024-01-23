@@ -436,6 +436,9 @@ footer .footer-div div {
     padding-left: 2em;
     padding-right: 2em;
   }
+  .feature-section a {
+    margin-left: 0;
+  }
   .feature-section .col-1 {
     display: flex;
     flex-direction: row;
