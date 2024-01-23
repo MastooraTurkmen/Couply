@@ -581,6 +581,7 @@ footer {
         display: flex;
         align-items: center;
         padding: 0 10em;
+        margin: -0.21em 0;
 
         .first-section, 
         .feature-section {
@@ -593,6 +594,7 @@ footer {
 
         .feature-section {
             border-left: 2px solid var(--color-black);
+            margin: 0;
         }
 
         .col-1 {
