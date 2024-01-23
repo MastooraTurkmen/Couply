@@ -585,7 +585,10 @@ footer {
         .first-section, 
         .feature-section {
             border-bottom: unset;
-            
+        }
+
+        .first-section {
+            padding-left: 0;
         }
 
         .col-1 {

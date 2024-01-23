@@ -528,6 +528,9 @@ footer .footer-div div {
   .header-container .feature-section {
     border-bottom: unset;
   }
+  .header-container .first-section {
+    padding-left: 0;
+  }
   .header-container .col-1 {
     flex-direction: column;
   }
